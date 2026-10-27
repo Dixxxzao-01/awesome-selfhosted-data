@@ -5,7 +5,7 @@ description: "An OpenAI-compatible LLM request gateway that detects refusals and
 licenses:
   - MIT
 platforms:
-  - Python
-  - Docker
+  - python
+  - docker
 tags:
   - API Management
